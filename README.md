@@ -1,3 +1,3 @@
-## API desenvolida em .Net com MongoDb.
+## API desenvolida em C# com MongoDb.
 
-### Acesse o front [aqui]([https://](https://github.com/Thiago-Maia/cost-front)).
+### Acesse o front [aqui](https://github.com/Thiago-Maia/cost-front).
